@@ -1,2 +1,2 @@
 # landing-page
-Repositório Landing Page
+ Landing Page feita com Flexbox e Grid
